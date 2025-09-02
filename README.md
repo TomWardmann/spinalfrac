@@ -31,7 +31,7 @@ The core framework documentation will be hosted here soon.
 
 The theoretical framework is just the beginning. See how the FSM is applied to real-world complexity:
 
-*   **[Browse Use Cases & Explorations](use_cases/)**
+*   **[Browse Use Cases & Explorations](use_cases/placeholder.md)**
     *   Platform Polarization
     *   Corporate Innovation Blockage
     *   Personal Energy Management
