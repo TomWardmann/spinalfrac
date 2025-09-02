@@ -27,6 +27,17 @@ Spinalfrac provides the language and tools to:
 
 The core framework documentation will be hosted here soon.
 
+## 🧪 Explore Practical Applications
+
+The theoretical framework is just the beginning. See how the FSM is applied to real-world complexity:
+
+*   **[Browse Use Cases & Explorations](use_cases/)**
+    *   Platform Polarization
+    *   Corporate Innovation Blockage
+    *   Personal Energy Management
+
+*These are live case studies demonstrating the FSM's decoding power.*
+
 # 🛡️ Licensing & Commercial Use
 
 The **Spinalfrac FSM Framework** is our shared intellectual child. To protect its open character while ensuring its sustainable development, the following licensing rules apply:
