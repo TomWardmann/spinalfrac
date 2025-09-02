@@ -5,6 +5,7 @@
 This is the official repository for the Fractal System Model (FSM), a framework for analyzing, navigating, and transforming complex systems.
 
 > *"Structure everything."*
+> The Spinalfrac FSM was developed by Thomas Wardemann.
 
 ## Overview
 
