@@ -6,6 +6,14 @@ This is the official repository for the Fractal System Model (FSM), a framework 
 
 > *"Structure everything."*
 > The Spinalfrac FSM was developed by [Thomas Wardemann](./ABOUT_THE_AUTHOR.md)
+>
+> ## 🚀 What makes this different?
+
+Tired of models that are either too abstract to apply or too rigid to handle real-world complexity? The FSM is different:
+
+*   **It's a practical translation layer** between your intuition about a messy situation and a precise plan of action. (See the [Translation Layer](https://github.com/TomWardmann/spinalfrac#1-%C3%BCbersetzungslayer-die-br%C3%BCcke-zwischen-intuition--pr%C3%A4zision)).
+*   **It's fractal:** Use it to analyze your team's dynamics, your company's strategy, or your personal life with the same powerful set of elements.
+*   **It doesn't give you answers; it gives you the right questions to ask.** The operative questions are the key to unlocking any system.
 
 ## Overview
 
