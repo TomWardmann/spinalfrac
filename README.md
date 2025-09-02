@@ -16,6 +16,7 @@ Tired of models that are either too abstract to apply or too rigid to handle rea
 *   **It doesn't give you answers; it gives you the right questions to ask.** The operative questions are the key to unlocking any system.
 
 **👉 [See the 'Translation Layer' in action](#)** – *(This section is the core innovation!)*
+![The FSM transforms complexity into clarity](https://imgur.com/a/buKPp9Z)
 
 Spinalfrac provides the language and tools to:
 - Translate intuitive perceptions into precise operational questions.
