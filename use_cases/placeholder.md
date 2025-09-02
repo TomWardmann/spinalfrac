@@ -7,6 +7,7 @@ This directory contains explorations and conceptual applications of the Spinalfr
 *   `project_management_antipatterns.fsm`
 *   `personal_energy_management.fsm`
 *   `ecosystem_analysis.fsm`
+*   * [PLANNED] Case Study: [The impending collapse of the biosphere.]
 
 > **Note:** These are conceptual models and analyses. The specific parameters and internal mappings are not publicly available but can be developed for specific client engagements.
 > contact me to explore a specific use case for your context: mailto:wardemann@gmx.net
