@@ -135,7 +135,7 @@ Action within the FSM is guided by principles such as:
 Thoughts, questions, or ideas on how to apply this? I welcome your feedback and interpretations!
 
 *   Open a [**GitHub Issue**](../../issues) to start a discussion.
-*   Contact me directly for questions about the operational model: [thomas.wardemann@googlemail.com](mailto:thomas.wardemann@googlemail.com)
+*   Contact me directly for questions about the operational model: [thomas.wardemann@googlemail.com](mailto:wardemann@gmx.net)
 
 ---
 
