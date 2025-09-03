@@ -15,17 +15,120 @@ Tired of models that are either too abstract to apply or too rigid to handle rea
 *   **It's fractal:** Use it to analyze your team's dynamics, your company's strategy, or your personal life with the same powerful set of elements.
 *   **It doesn't give you answers; it gives you the right questions to ask.** The operative questions are the key to unlocking any system.
 
-**👉 [See the 'Translation Layer' in action](#)** – *(This section is the core innovation!)*
-![The FSM transforms complexity into clarity](https://imgur.com/a/buKPp9Z)
-
 Spinalfrac provides the language and tools to:
 - Translate intuitive perceptions into precise operational questions.
 - Analyze systems through their core elements (Core, Flow, Spark, Rules, Agents, etc.).
 - Design targeted interventions to increase resilience and agency.
 
-## Getting Started
+# Spinalfrac – Fractal Systems Model (FSM)
 
-The core framework documentation will be hosted here soon.
+Spinalfrac is the implementation of the Fractal Systems Model (FSM). The core operational formulas and metrics are proprietary.
+
+---
+
+## Public Concept Version 6.2: "Adaptive Metric"
+
+# **Fractal Systems Model (FSM) – Public Concept Version 6.2 "Adaptive Metric"**
+
+**© Thomas Wardemann. Co-created in dialogue between human and AI. Status: Living Document – Concept Version.**
+**🔄 Open-Source Principle:** The basic principles, archetypes, and analysis layers of the FSM may be freely shared, discussed, and used non-commercially (CC-BY-NC 4.0). The complete operational core (formulas, metrics, process details) remains protected and is subject to separate licensing terms.
+
+---
+
+## **1. Core Idea: From Gut Feeling to Systems Analysis**
+
+The FSM translates intuitive perceptions ("Something's wrong here!") into precise systems analysis. It integrates **structure, dynamics, humanity, and power** into a unified model.
+
+> **Central Question:** "How do I preserve and expand a system's capacity for action?"
+
+## **2. The Layers of Analysis – The FSM Stack**
+
+The model analyses systems across eight mutually influencing layers:
+
+1.  **Translation Layer:** Intuitive statements are mapped to systematic elements.
+2.  **8+1 Elements:** The universal building blocks of any system.
+3.  **Dynamic Forces:** The "physics" that create movement and stagnation.
+4.  **Depth Rules:** The human, often invisible drivers.
+5.  **Power Layers:** Who has what kind of influence?
+6.  **Systems Ecologies:** In what "environment" does the system exist?
+7.  **Evaluation:** The system state is assessed.
+8.  **Intervention:** Targeted levers for change.
+
+## **3. The 8+1 Universal Elements**
+
+| Element | Symbol | Short Definition |
+| :--- | :--- | :--- |
+| **SUBSTRATE** | **∑** | The fundamental "system matter". |
+| **CORE** | ⛰️ | Stable components & resources. |
+| **FLOW** | 🔄 | Movement & exchange. |
+| **SOURCE** | ⚡ | Potential, energy, driving difference. |
+| **RULES** | 📜 | Laws, principles & rules of the game. |
+| **AGENT** | 🤖 | Active entities (Human, AI, Team). |
+| **CONTEXT** | 🌐 | The larger environment. |
+| **IMMUNE SYSTEM**| 🛡️ | Defense and tolerance mechanisms. |
+| **CHAOS** | Χ | Raw material for reorganization. |
+| *NUMINOUS RESERVE* | *🕊️* | *The undefinable, non-optimizable.* |
+
+## **4. The Dynamic Forces**
+
+| Force | Symbol | FSM Interpretation |
+| :--- | :--- | :--- |
+| **Friction** | F_r | The energy & motivation killer. |
+| **Momentum** | p | Change momentum & implementation force. |
+| **Coriolis Force** | F_c | Systemic inertia & deflection. |
+| **Centrifugal Force** | F_zf | Force of decentralization & separation. |
+| **Centripetal Force** | F_zp | Force of cohesion & identity. |
+| **Gravitation** | F_g | Attractors & dependencies. |
+
+## **5. The Humanitarian Depth Dimension**
+
+Every system is shaped by deep-seated patterns:
+*   **🌋 Origin Narratives:** Foundational, often mythological stories.
+*   **🧠 Belief Systems:** Internalized "truths".
+*   **🪞 Identity Assumptions:** "Who we believe we are".
+*   **😰 Somatic/Emotional Engrams:** Bodily reaction patterns to triggers.
+
+## **6. The Power Layers**
+
+Power rarely works in just one dimension:
+*   **💪 Explicit:** Formal hierarchy.
+*   **🧠 Implicit:** Informal influence.
+*   **📣 Discourse:** Power over language and truth.
+*   **🌐 Structural:** Advantages built into systems.
+*   **⚖️ Sovereign:** The power to suspend the rules.
+
+## **7. Archetypal Systems Ecologies**
+
+Systems behave differently depending on their "environment":
+*   **Ocean:** Networking, abundance.
+*   **Desert:** Scarcity, efficiency.
+*   **High Mountains:** Stability under pressure.
+*   **Polar Region:** Cyclicity, slowness.
+*   **Rainforest:** Extreme competition & diversity.
+*   **Volcano:** Creative destruction.
+*   **Cave:** Isolation, blind evolution.
+
+## **8. Meta-Principles (Excerpt)**
+
+Action within the FSM is guided by principles such as:
+*   **Fractal Scaling:** Does the model work for a team as it does for an organization?
+*   **Principle of Depth Coherence:** Do the interventions also resolve the underlying conflicts?
+*   **Principle of Perspective Inversion:** Question your most certain conclusions.
+*   **The Momentum Principle:** Judge success by effective momentum.
+*   **The Principle of the Numinous Reserve:** What must not be optimized?
+
+## **9. Application – The FSM Process**
+
+1.  **Sensemaking:** Capture the system intuitively.
+2.  **Analysis:** Examine it using layers 2-6.
+3.  **Evaluation:** Estimate the system state.
+4.  **Intervention:** Choose targeted levers from the toolbox.
+5.  **Iteration:** Measure, learn, and improve.
+
+**Note:** We retain the operational depth – the exact formulas, metrics, and precise process. This conceptual version is intended to **inspire, invite, and frame the discussion**, not to be copied.
+
+---
+**End of the conceptual version.** For the complete, operational application, please contact me directly.
 
 ## 🧪 Explore Practical Applications
 
