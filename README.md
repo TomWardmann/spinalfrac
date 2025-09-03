@@ -1,7 +1,7 @@
 # **Fractal Systems Model (FSM) – Public Concept Version 6.2 "Adaptive Metric"**
 
 **© Thomas Wardemann. Co-created in dialogue between human and AI. Status: Living Document – Concept Version.**
-> 🔒 **Note:** This is a **conceptual preview**. The operational core (formulas, metrics, full process) is protected. [Contact me](mailto:thomas.wardemann@googlemail.com) for inquiries about the full model.
+> 🔒 **Note:** This is a **conceptual preview**. The operational core (formulas, metrics, full process) is protected. [Contact me](mailto:wardemann@gmx.net) for inquiries about the full model.
 
 🔄 **Open-Source Principle:** The basic principles, archetypes, and analysis layers of the FSM may be freely shared, discussed, and used non-commercially. The complete operational core remains protected and is subject to separate licensing terms.
 
