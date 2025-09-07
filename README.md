@@ -73,18 +73,17 @@ A system's state is quantified as **S(t)** and monitored through metrics like **
 
 ## 🚀 Quick Start: How to Begin
 
-1.  **Translate Perception**  
-    Start with an intuitive observation (e.g., "Everything is stuck here!").  
-    Translate it into the system's language:  
-    *"Stuck" → potentially an **\[E2]-blockade** or **\[E5]-deficiency***.
+1.  **📤 Translate Perception**  
+    Start with an intuitive observation...  
+    **Translate it** into the system's language...
 
-2.  **Conduct Analysis**  
-    - Identify involved **Elements** and **Forces**.  
-    - Check **Deep Rules** (core assumptions) and **Power Levels**.
+2.  **🔍 Conduct Analysis**  
+    - **Identify** involved Elements and Forces...  
+    - **Check** Deep Rules...
 
-3.  **Design an Intervention**  
-    Develop a targeted, minimally invasive intervention.  
-    Test it on a small scale and measure its impact on **S(t)**.
+3.  **🛠️ Design an Intervention**  
+    **Develop** a targeted...  
+    **Test it** on a small scale...
 
 ---
 
