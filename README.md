@@ -92,7 +92,11 @@ A system's state is quantified as **S(t)** and monitored through metrics like **
 - **Organizational Development:** Identify and resolve team blockages  
 - **AI System Design:** Understand dynamics in human-AI interaction  
 - **Problem Analysis:** Find the root causes of recurring problems  
-- **Personal Development:** Reflect on personal patterns and blockages  
+- **Personal Development:** Reflect on personal patterns and blockages
+- **theoretical intervention ## 💡 Use Cases
+  Curious how the FSM works in practice? Explore real-world applications:
+- [Restoring Flow in a High-Potential Team](./use_cases/2025-09_Restoring_Flow_High_Potential_Team.md)  
+*(More cases coming soon...)*
 
 
 ---
