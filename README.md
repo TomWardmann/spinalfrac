@@ -114,7 +114,7 @@ spinalfrac/
 ## 🛠️ Contributing
 
 We welcome contributions that make the model clearer, more applicable, or more accessible.  
-Please read our [Contributor Guide](contributing.md) first.
+Please read our [Contributor Guide](Contributing.md) first.
 
 ---
 
