@@ -101,13 +101,13 @@ A system's state is quantified as **S(t)** and monitored through metrics like **
 
 ```
 spinalfrac/
-├── docs/                       # Detailed documentation
-│   ├── core_elements.md        # In-depth description of elements
-│   ├── intervention_guide.md   # Intervention guide
-│   └── examples/               # Application examples
-├── models/                     # Reference models
+
+├── Contributing.md             # want to interact ?
+├── ABOUT_THE_AUTHOR.md         # who is  
+├── License.md                  # License
 └── README.md                   # This file
 ```
+*This repository is in active development. The structure will evolve as the model is documented and implemented further. Contributions and ideas are welcome!*
 
 ---
 
