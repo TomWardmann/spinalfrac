@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fraktales Systemmodell (FSM) Version 7.0",
+  "description": "A machine-readable schema for the Fractal System Model elements and dynamic forces.",
+  "version": "7.0",
+  "fsm": {
+    "universal_elements": {
+      "E1": {
+        "name": "Core Components",
+        "description": "Physical, stable components & resources.",
+        "operational_question": "Are the core resources intact and available?"
+      },
+      "E2": {
+        "name": "Flow & Exchange",
+        "description": "Movement and exchange between system parts.",
+        "operational_question": "Where is the flow blocked or restricted?"
+      },
+      "E3": {
+        "name": "Agents",
+        "description": "Active entities (human, AI, team, organization).",
+        "operational_question": "Who has agency? How is it calibrated?"
+      },
+      "E4": {
+        "name": "Embedded System",
+        "description": "The larger system in which the system is embedded.",
+        "operational_question": "What larger system influences this one?"
+      },
+      "E5": {
+        "name": "Potential / Source",
+        "description": "Potential, driving difference, cause of movement.",
+        "operational_question": "Where is potential lost or blocked?"
+      },
+      "E6": {
+        "name": "Rules & Principles",
+        "description": "Laws, principles & rules of the game.",
+        "operational_question": "Which rule is being broken or is too rigid?"
+      },
+      "E7": {
+        "name": "Defense Mechanisms",
+        "description": "Defense and tolerance mechanisms.",
+        "operational_question": "What is being defended against?"
+      },
+      "E8": {
+        "name": "Chaos / Ground",
+        "description": "Primordial ground state, raw material for reorganization.",
+        "operational_question": "What new patterns are emerging from the chaos?"
+      },
+      "E9": {
+        "name": "The Sacred",
+        "description": "The undefinable, sacred, non-optimizable.",
+        "operational_question": "What should remain unoptimized?"
+      }
+    },
+    "dynamic_forces": {
+      "D1": {
+        "name": "Resistance",
+        "description": "Force that opposes motion and dissipates energy (friction)."
+      },
+      "D2": {
+        "name": "Coriolis Effect",
+        "description": "Apparent force that deflects motion in rotating systems."
+      },
+      "D3": {
+        "name": "Centrifugal Force",
+        "description": "Apparent force that pushes outward from the center of rotation."
+      },
+      "D4": {
+        "name": "Centripetal Force",
+        "description": "The real force that pulls toward the center of rotation."
+      },
+      "D5": {
+        "name": "Gravitation",
+        "description": "Force of attraction between masses."
+      },
+      "D6": {
+        "name": "Meta-Reflection",
+        "description": "Cognitive monitoring instance that controls thought processes."
+      }
+    }
+  }
+}
