@@ -105,6 +105,9 @@ A system's state is quantified as **S(t)** and monitored through metrics like **
   Curious how the FSM works in practice? Explore real-world applications:
 - [Restoring Flow in a High-Potential Team](./use_cases/2025-09_Restoring_Flow_High_Potential_Team.md)
 - [Climate Cascade Analysis with FSM 7.0](./use_cases/Climate_Cascade_Analysis_FSM_vs_LLM(1).markdown)
+- [Global Drought Resilience with FSM 7.0.2](.//use_cases/Global%20Drought%20Resilience.md)
+- 
+
   
 *(More cases coming soon...)*
 
