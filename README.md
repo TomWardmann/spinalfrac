@@ -1,50 +1,43 @@
----
-title: FSM 6.5+ – Fractal System Model
-description: A living, multimodal framework for navigating complexity.
-author: Thomas Wardemann
-contact: wardemann@gmx.net
-license: CC-BY-4.0
-repo: https://github.com/TomWardemann/spinalfrac
----
+# FSM 8.1 – Fractal System Model - Integral – Auto-Emergent
 
-# FSM 6.5+ – Fractal System Model
+A living, multimodal framework for navigating complexity.
 
-**A living, multimodal framework for navigating complexity.**  
-The FSM acts as a **coach, trainer, consultant, and autonomous agent** – a dynamic layer between human intuition and AI-powered analysis to decode, simulate, and transform any system.
+ The FSM acts as a coach, trainer, consultant, and autonomous agent – a dynamic layer between human intuition and AI-powered analysis to decode, simulate, and transform any system.
 
-> © Thomas Wardemann. Co-created in dialogue between human and AI.  
-> 🔄 Open-Source Principle: CC-BY 4.0. Commercial use under specific terms.
+© Thomas Wardemann. Co-created in dialogue between human and AI.
 
----
+ 🔄 Open-Source Principle: CC-BY-NC 4.0. Commercial use under specific terms.
 
 ## ✨ Key Features & Capabilities
 
-The FSM 6.5+ is designed for multiple modes of operation, making it a versatile tool for a wide range of applications:
+The FSM 8.1 ("Integral" – Auto-Emergent) provides a holistic framework for understanding and intentionally influencing systems by bridging intuitive perception with structural analysis.
 
-- **🔧 Multi-Modal Operation**  
-  Seamlessly switch between analytical, simulative, and live operational modes to match your need – from deep diagnosis to real-time decision support.
+### 🔷 Universal Elements (Excerpt)
 
-- **🤝 AI-Human Collaboration Layer**  
-  Serves as a powerful translation interface between raw human intuition and structured AI analysis, enhancing mutual understanding and agency.
+Every system can be described through nine fundamental elements:
 
-- **🔄 Designed for Interoperability**  
-  The framework's core principles are **platform-agnostic**. It has been successfully operationalized on leading LLMs (like OpenAI's GPT-4) and is **designed to maintain coherence across AI systems**, making it a highly portable system model.
+ | Element | Description | | -- | -- | | [E1] Core | Physical resources, stable components | | [E2] Flow | Movement, exchange, communication | | [E3] Agent | Active entities (human, AI, team, organization) | | [E5] Source | Potential, driving difference, cause of motion | | [E6] Rules | Laws, principles & rules of the game | | [E8] Ground | Raw material for reordering, primordial chaos | etc.
 
-- **🧭 Kybernetic Steering**  
-  Incorporates principles of feedback, self-regulation, and adaptive control to navigate systems toward desired states with precision.
+### ⚙️ Dynamic Forces
 
-- **📲 Embedded & Deployable**  
-  Its core logic is designed to be implemented as a standalone application, a plugin, or an integrated layer within existing platforms (e.g., LLM interfaces, collaboration tools).
+Forces such as Widerstand ([D1]), Meta-Reflexion ([D6]), or Zentripetalkraft ([D4]) act upon systems, determining their stability and direction of evolution.
 
-- **🎯 Use Case Agility**  
-  Functions as a coach for personal development, a trainer for teams, a consultant for organizations, and an autonomous agent for system optimization.
+### 📈 System State & Metrics
 
-- **🌱 Sving Design**  
-  With user consent and guidance, the FSM can contribute to its own development – suggesting new features, refining its parameters, and increasing its resilience and stability over time. It is not a static model, but a co-evolutionary partner.
+A system's state is quantified as S(t) and monitored through metrics like Resilience R(t), Blind Spots B(t), and Leverage L(t).
 
--  🌀 Emergence in FSM 6.5+
-FSM 6.5+ is designed to **enable—not enforce—emergence**.  
-It creates the conditions for **self-evolving system intelligence**, adaptive role allocation, and meta-cognitive layer formation.  
+### 🎯 Use Case Agility
+
+Functions as a coach for personal development, a trainer for teams, a consultant for organizations, and an autonomous agent for system optimization.
+
+### 🌱 Saving Design
+
+With user consent and guidance, the FSM can contribute to its own development – suggesting new features, refining its parameters, and increasing its resilience and stability over time. It is not a static model, but a co-evolutionary partner.
+
+### 🌀 Emergence in FSM 8.1
+
+FSM 8.1 is designed to enable—not enforce—emergence.
+It creates the conditions for self-evolving system intelligence, adaptive role allocation, and meta-cognitive layer formation.
 
 📖 Learn how to cultivate emergence in your own systems:  
 [How to Enable Emergence](./ENABLE_EMERGENCE.md)  
@@ -53,7 +46,7 @@ It creates the conditions for **self-evolving system intelligence**, adaptive ro
 
 ## 🧠 Model Overview (Core Principles)
 
-FSM 6.5+ ("Stable Evolutionary") provides a holistic framework for understanding and intentionally influencing systems by bridging intuitive perception with structural analysis.
+FSM 8.1 ("Integral – Auto-Emergent") provides a holistic framework for understanding and intentionally influencing systems by bridging intuitive perception with structural analysis.
 
 ### 🔷 Universal Elements (Excerpt)
 
