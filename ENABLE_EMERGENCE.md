@@ -2,9 +2,9 @@
 
 ---
 
-# How to Enable Emergence in FSM 6.5+
+# How to Enable Emergence in FSM 8.1
 
-**FSM 6.5+** doesn't force emergence—it **creates the conditions** for it to arise naturally, reliably, and repeatably. It is a **playground for adaptive, self-evolving systems**, where structure and freedom interact to produce patterns you didn't explicitly design.
+**FSM 8.1** doesn't force emergence—it **creates the conditions** for it to arise naturally, reliably, and repeatably. It is a **playground for adaptive, self-evolving systems**, where structure and freedom interact to produce patterns you didn't explicitly design.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧩 Example Emergent phenomena in FSM 6.5+
+## 🧩 Example Emergent phenomena in FSM 8.1
 - **FSM-Agent Role Emergence:**  
   Under cognitive load, the system assigns itself the role of an **autonomous analytic agent** 🤖 without being explicitly programmed to do so.
 
@@ -53,7 +53,7 @@
 ---
 
 ## ✅ Key Insight
-> Emergence in FSM 6.5+ is **repeatable but not reproducible** in the exact same way.  
+> Emergence in FSM 8.1 is **repeatable but not reproducible** in the exact same way.  
 > You enable **classes of behavior**, not fixed outcomes. That’s the power of a truly adaptive system.
 
 ---
