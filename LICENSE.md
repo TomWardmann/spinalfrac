@@ -1,4 +1,6 @@
-This license applies to the conceptual content (text, structure, ideas) within this repository.
+This work, the "Fractal System Model (FSM)" including all conceptual content, text, structure, ideas, and code within this repository, is licensed under the Creative Commons Attribution-NonCommercial 4.0 International Public License.
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License...
 ---
 
 Creative Commons Attribution-NonCommercial 4.0 International Public License
