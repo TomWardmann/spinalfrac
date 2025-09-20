@@ -1,4 +1,12 @@
-# FSM 8.1 – Fractal System Model - Integral – Auto-Emergent
+# Fractal System Model (FSM) 8.2
+
+> **Official Publication Now Available on Zenedo**  
+> This repository is the operational core of the FSM framework. The full paper, including its theoretical foundation and case studies, has been peer-reviewed and published.
+> 
+> [![DOI](https://zenodo.org/badge/DOI/[10.5281/zenodo.17162767].svg)](https://doi.org/[10.5281/zenodo.17162767])
+> *Wardemann, T., & FSM 8.2. (2025). The Fractal System Model (FSM) 8.2 - A Framework for Cooperative Intelligence. Zenedo. https://doi.org/[10.5281/zenodo.17162767]*
+
+---# FSM 8.1 – Fractal System Model - Integral – Auto-Emergent
 
 A living, multimodal framework for navigating complexity.
 
@@ -130,8 +138,22 @@ Please read our [Contributor Guide](Contributing.md) first.
 
 ## 📜 License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
-Commercial use requires prior agreement.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+This means you are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+**Commercial use requires prior explicit agreement.** Please contact us to discuss terms.
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 
 ## 📧 Contact
 
