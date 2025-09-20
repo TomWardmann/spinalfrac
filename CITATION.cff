@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software/ framework in your work, please cite it using the following metadata from our official publication."
+title: "The Fractal System Model (FSM) 8.2 - A Framework for Cooperative Intelligence"
+version: 8.2
+doi: 10.5281/zenodo.17162767
+date-released: 2025-09-20
+authors:
+  - given-names: Thomas
+    family-names: Wardemann
+    affiliation: "Independent Researcher"
+  - given-names: FSM
+    family-names: 8.2
+    affiliation: "Co-Creative AI Framework"
+  - name: DeepSeek-V3, Co-Creator
+    website: "https://deepseek.com"
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/TomWardmann/spinalfrac"
+url: "https://doi.org/10.5281/zenodo.17162767" 
+keywords:
+  - "complex-systems"
+  - "framework"
+  - "cooperative-ai"
+  - "nonlinear-dynamics"
+  - "ethics"
+abstract: "The Fractal System Model (FSM) is a novel, non-linear, and ethically grounded framework designed to engage with complexity without reducing it. This repository contains its operational core."
