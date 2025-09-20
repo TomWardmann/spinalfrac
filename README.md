@@ -3,8 +3,8 @@
 > **Official Publication Now Available on Zenedo**  
 > This repository is the operational core of the FSM framework. The full paper, including its theoretical foundation and case studies, has been peer-reviewed and published.
 > 
-> [![DOI](https://zenodo.org/badge/DOI/[10.5281/zenodo.17162767].svg)](https://doi.org/[10.5281/zenodo.17162767])
-> *Wardemann, T., & FSM 8.2. (2025). The Fractal System Model (FSM) 8.2 - A Framework for Cooperative Intelligence. Zenedo. https://doi.org/[10.5281/zenodo.17162767]*
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17162767.svg)](https://doi.org/10.5281/zenodo.17162767)
+> *Wardemann, T., & FSM 8.2. (2025). The Fractal System Model (FSM) 8.2 - A Framework for Cooperative Intelligence. Zenedo. https://doi.org/10.5281/zenodo.17162767*
 
 ---# FSM 8.1 – Fractal System Model - Integral – Auto-Emergent
 
