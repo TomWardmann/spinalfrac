@@ -136,6 +136,24 @@
 **Join hundreds of practitioners** already applying these principles to complex challenges in climate governance, AI safety, organizational transformation, and personal development.
 
 *"Start where you are. Use what you have. Do what you can." - Arthur Ashe*
+---
+
+## © **Copyright & Licensing**
+
+**Framework Creator:** Thomas Wardemann  
+**License:** Creative Commons Attribution-NonCommercial 4.0 International  
+**Required Attribution:** "FSM Framework by Thomas Wardemann"  
+**Commercial Use:** Requires separate licensing agreement  
+**Contact:** For partnerships and commercial applications
+
+### 📜 **License Summary:**
+- ✅ **Share & adapt** for non-commercial purposes
+- ✅ **Attribute** Thomas Wardemann as creator  
+- ✅ **Link back** to original framework
+- ❌ **No commercial use** without permission
+- ❌ **No derivative works** for commercial purposes
+
+*Protecting open knowledge while ensuring creator rights.*
 
 ---
 
