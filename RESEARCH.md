@@ -160,12 +160,12 @@ through operationalizable principles and protocols.
 ### Current Publications:
 
 #### 1. **Zenodo Archive**
-- **DOI**: 10.5281/zenodo.17162880
+- **DOI**: [10.5281/zenodo.17162880](https://doi.org/10.5281/zenodo.17162880)
 - **Content**: Complete FSM framework specification
 - **Status**: Live, with growing international adoption
 
 #### 2. **GitHub Repository**
-- **URL**: https://github.com/TomWardemann/spinalfrac
+- **URL**: https://github.com/TomWardmann/spinalfrac
 - **Content**: Full framework + guides + case studies
 - **Status**: Featured system theory, rapid community growth
 
@@ -324,7 +324,7 @@ through operationalizable principles and protocols.
 4. **Co-design your first project** with our support
 
 ### Research Coordination:
-- **Primary Contact**: Thomas Wardemann (Framework Creator)
+- **Primary Contact**: Thomas Wardemann (Framework Creator) E-Mail: wardemann@gmx.net 
 - **Research Portal**: GitHub Issues & Discussions
 - **Documentation**: Full framework on Zenodo and GitHub
 
