@@ -140,7 +140,7 @@
 
 ## © **Copyright & Licensing**
 
-**Framework Creator:** Thomas Wardemann  
+**Framework Creator:** Thomas Wardemann & The FSM Collective  
 **License:** Creative Commons Attribution-NonCommercial 4.0 International  
 **Required Attribution:** "FSM Framework by Thomas Wardemann"  
 **Commercial Use:** Requires separate licensing agreement  
