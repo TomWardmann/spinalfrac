@@ -35,7 +35,7 @@ For all current development, documentation, and contributions:
 
 ---
 ## Legal & Imprint / Impressum
-[Impressum / Legal Notice](./IMPRESSUM.md)
+[Impressum / Legal Notice](./impressum.md)
 
 
 ## 🌌 Three Fundamental Innovations That Make FSM Unique
