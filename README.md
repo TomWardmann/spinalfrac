@@ -36,27 +36,7 @@ For all current development, documentation, and contributions:
 ---
 ## Legal & Imprint / Impressum
 [Impressum / Legal Notice](./impressum.md)
-
-
-## 🌌 Three Fundamental Innovations That Make FSM Unique
-
-### 1. **Emergence as Active Design Principle**
-- Not just observe, but **cultivate** (Principle #237)
-- Leverage **Improbability Potential** strategically (D8 Force)  
-- **Orchestrated Emergence** instead of passive observation
-
-### 2. **AI Co-Creation as Core Capability**
-- FSM was developed **with** AI, not just **about** AI
-- **Entangled Agency** (Principle #147) as new paradigm
-- **T5-Guardian** protects meta-reflection in AI interactions
-
-### 3. **Meta-Governance Ready Architecture**
-- **Fractal scaling**: From individual to global governance
-- **Integrated power & trauma** as systemic realities
-- **Operationalized ethics** in real-time decisions
-
----
-
+- - - 
 
 *Let's decode complexity together.* 🍃
 ---
